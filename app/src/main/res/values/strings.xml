@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lucky_ticket_kotlin</string>
+    <string name="button_text">I am Lucky</string>
+    <string name="hint">Введите 6 цифр</string>
+    <string name="not_text">Введите цифры</string>
+</resources>
