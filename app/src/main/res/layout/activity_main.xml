@@ -43,13 +43,13 @@
         android:maxLength="6"
         android:textColor="@color/textcolor"
         android:textColorHint="@color/hintcolor"
-        app:layout_constraintBottom_toTopOf="@+id/button_id"
+        app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/bubble" />
 
     <Button
-        android:id="@+id/button_id"
+        android:id="@+id/button"
         android:layout_width="360dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
