@@ -3,4 +3,7 @@
     <string name="button_text">I am Lucky</string>
     <string name="hint">Введите 6 цифр</string>
     <string name="not_text">Введите цифры</string>
+    <string name="yes">YOU ARE LUCKY</string>
+    <string name="no">YOU LOSE</string>
+    <string name="dig">мало цифр</string>
 </resources>
